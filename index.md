@@ -18,6 +18,8 @@ videofab runs locally on the channel owner's personal computer. It helps produce
 
 videofab is **not a public service**. It has no user accounts, no sign-up and no public interface. It is used exclusively by the channel owner, who authorizes it with their own Google account through OAuth 2.0. It does not access any other user's or channel's data.
 
+> This tool uses the **YouTube API Services** to upload videos to the owner's own YouTube channel.
+
 ## Policies
 
 - [Privacy Policy](privacy.html)
