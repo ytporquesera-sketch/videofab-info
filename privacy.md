@@ -53,4 +53,4 @@ Any changes to this policy will be published on this page with an updated date.
 
 ## 10. Contact
 
-For any question about this policy: TU_EMAIL
+For any question about this policy: ytporquesera@gmail.com
